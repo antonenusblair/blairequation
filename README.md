@@ -1,6 +1,6 @@
 # The Blair Equation: Complete Analytical And Computational Documentation
 
-**DOI:** 10.5281/zenodo.17417752 
+**DOI:** 10.5281/zenodo.17410126
 
 **Author:** Antonenus Blair Chimtama Gwengwe
 
@@ -58,7 +58,7 @@ We welcome feedback on the clarity, correctness, and effectiveness of the comput
 ## Citation
 
 Gwengwe, A. B. C. (2025). The Blair Equation: Complete Analytical And Computational Documentation. Zenodo. 
- 10.5281/zenodo.17417752
+ 10.5281/zenodo.17410126
 ## Acknowledgments
 
 This work was conducted as independent theoretical research. The author acknowledges the global quantum foundations community for decades of insightful work that made this synthesis possible.
